@@ -8,7 +8,7 @@ to dynamically generate an html page (fresh_tomatoes.html) based on the movies i
 entertainment_center.py.
 
 ### Instructions
-This app requires Python to run.
+This app requires [Python](https://www.python.org/downloads/) to run.
 
 Clone the repository to your computer. To run the application, enter $ python 
 entertainment_center.py in a command window. Alternatively, you can open fresh_tomatoes.html 
