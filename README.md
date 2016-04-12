@@ -20,4 +20,5 @@ To create a page containing movies of your choice, edit the movie instances cont
 entertainment_center.py. You can change the name, link to poster image, and
 link to trailer of the movies already there or add entirely new movie instances. Make sure 
 to add any new movie variables to the 'movies' array at the bottom of the script. Run
-entertainment_center.py (as described above) to update and open your new movie web page!
+entertainment_center.py (as described above) to update and open your new movie trailer 
+website!
