@@ -16,7 +16,8 @@ with your preferred browser. Click on the movie title or its poster art to view 
 in a YouTube video modal.
 
 ### Make Your Own Movie Page!
-To create a page containing movies of your choice, change the name, link to poster image, and
-link to trailer of the movies in entertainment_center.py. Make sure to add the new movie variable 
-names to the 'movies' array at the bottom of the script. Run entertainment_center.py (as 
-described above) to generate the new html page and it will automatically open in a browser!
+To create a page containing movies of your choice, edit the movie instances contained in 
+entertainment_center.py. You can change the name, link to poster image, and
+link to trailer of the movies already there or add entirely new movie instances. Make sure 
+to add any new movie variables to the 'movies' array at the bottom of the script. Run
+entertainment_center.py (as described above) to update and open your new movie web page!
